@@ -24,6 +24,11 @@ applications. Star the repository and check regulary for updates.
    shows how to _subscribe_ for new data being available for a given
    set of parameters.
 
+ + `computing_vegetation_indexes_scale.ipynb` is a Jupyter notebook
+   that shows how to easily compute the most usual
+   [vegetation indexes](https://en.wikipedia.org/wiki/Vegetation_Index) using
+   [gdal_calc](https://gdal.org/programs/gdal_calc.html).
+
 ## Contributing
 
  To contribute to this repository please you must abide by the
