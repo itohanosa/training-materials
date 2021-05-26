@@ -29,6 +29,14 @@ applications. Star the repository and check regulary for updates.
    [vegetation indexes](https://en.wikipedia.org/wiki/Vegetation_Index) using
    [gdal_calc](https://gdal.org/programs/gdal_calc.html).
 
+ + `ground_displacement_interferometry_catalyst.ipynb` is a Jupyter
+   notebook that uses the
+   [Catalyst Ground Displacement](https://marketplace.up42.com/block/23de425c-7954-45fb-84c5-f75abe00e2d2)
+   algorithm based on Synthetic Aperture Radar](https://earthdata.nasa.gov/learn/backgrounders/what-is-sar) (SAR)
+[Interferometry](https://en.wikipedia.org/wiki/Interferometry) (InSAR)
+   to estimate the ground displacement ahead of the
+   [February 7th 2021](https://www.abc.net.au/news/2021-02-08/himalayan-glacier-breaks-india-150-feared-dead-in-floods/13130866) Rishi Ganga Valley landslide.
+
 ## Contributing
 
  To contribute to this repository please you must abide by the
