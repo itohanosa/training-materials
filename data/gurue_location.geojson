@@ -1,0 +1,58 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "uuid": "bb3d6cd0-fbd2-11ea-bcd9-3af9d3a5b677",
+                "description": "Tea plantations in Gurué",
+                "name": "Tea plantations Mozambique"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            36.945853,
+                            -15.460324
+                        ],
+                        [
+                            36.932635,
+                            -15.482245
+                        ],
+                        [
+                            36.96229,
+                            -15.499077
+                        ],
+                        [
+                            36.974263,
+                            -15.475545
+                        ],
+                        [
+                            36.950102,
+                            -15.454161
+                        ],
+                        [
+                            36.945853,
+                            -15.460324
+                        ]
+                    ]
+                ]
+            },
+            "bbox": [
+                36.932635,
+                -15.499077,
+                36.974263,
+                -15.454161
+            ]
+        }
+    ],
+    "bbox": [
+        36.932635,
+        -15.499077,
+        36.974263,
+        -15.454161
+    ]
+}

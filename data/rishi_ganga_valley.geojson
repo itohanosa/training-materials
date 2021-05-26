@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "uuid": "bb3d6cd0-fbd2-11ea-bcd9-3af9d3a5b677",
+        "description": "Rishi Ganga Valley 2021 Landslide",
+        "name": "Rishi Ganga Valley"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.823715,
+              30.296131
+            ],
+            [
+              79.80487,
+              30.491821
+            ],
+            [
+              79.579599,
+              30.488781
+            ],
+            [
+              79.585253,
+              30.30102
+            ],
+            [
+              79.823715,
+              30.296131
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
